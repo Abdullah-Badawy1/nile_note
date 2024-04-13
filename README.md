@@ -1,4 +1,3 @@
-# Project Proposal: NileNote - Enhanced Learning through AI
 
 ## Project Title: NileNote: AI-Powered Learning Assistant
 
